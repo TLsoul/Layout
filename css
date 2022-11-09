@@ -6,7 +6,7 @@
         background-image: url("../images/darkwood.jpg");
         background-position: center;
         font-family: Georgia, 'Times New Roman', Times, serif;
-        maargin: 0px;
+        margin: 0px;
     }
     .wrapper {
         width: 940px;
@@ -101,4 +101,5 @@
         font-size: 80%;
         padding: 7px 0px 0px 20px;
     }
+
 </style>
