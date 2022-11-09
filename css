@@ -3,7 +3,7 @@
     body{
         color: #666666;
         background-color: #f9f8f6;
-        background-image: url("../images/darkwood.jpg");
+        background-image: url("../darkwood.jpg");
         background-position: center;
         font-family: Georgia, 'Times New Roman', Times, serif;
         margin: 0px;
@@ -16,7 +16,7 @@
     }
     header {
         height: 160px;
-        background-image: url("../images/header.jpg");
+        background-image: url("../header.jpg");
 
     }
     h1 {
@@ -101,5 +101,4 @@
         font-size: 80%;
         padding: 7px 0px 0px 20px;
     }
-
 </style>
