@@ -35,8 +35,15 @@
         margin: 0px;
         padding: 5px 0px 5px 30px;
     }
+    nav li {
+        display: inline;
+        margin-right: 40px;
+    }
     nav li a{
         color: #ffffff;
+    }
+    nav li a: :hover, nav li a.current{
+        color: #000000;
     }
     section.courses {
         float: left;
